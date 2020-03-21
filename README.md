@@ -13,3 +13,4 @@ The annealing algorithm uses an exponential acceptance function and geometricall
 You can control the initial temperature and rate of decline when initializing the run. There is some help text
 in the run file.
 
+Note that, in the run, you have to close each chart before the next one gets displayed.
