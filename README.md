@@ -1,5 +1,6 @@
 # travelingsalesman
-A couple optimization algorithms for the traveling salesman
+A couple optimization algorithms for the traveling salesman. The best way to explore the program is through 
+the run.ipynb file.
 
 The network class creates a random network of cities on a 2d plane, and the greedy and annealing algorithms 
 try to find the fastest way to traverse it. The visualize class draws the routes each of them found, and 
